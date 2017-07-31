@@ -1,13 +1,13 @@
 {
-  "name": "one-light-syntax",
+  "name": "pink-pansy-syntax",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "Atom One light syntax theme",
+  "description": "Pink pansy is my jamsy.",
   "keywords": [
     "light",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/unicornrainbow/pink-pansy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
